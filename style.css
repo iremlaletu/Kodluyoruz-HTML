@@ -6,7 +6,7 @@ body {
 u {
     color: gold;
 }
-.text-black {
-    color: black;
+p:nth-child(n){
+    color:black;
     font-style: italic;
 }
